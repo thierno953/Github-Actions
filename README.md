@@ -6,3 +6,6 @@
 * For example if the team can devote time to what really adds value: creating brilliant products.
 * With GitHub Actions, we can design our entire workflow in an automated way. We can specify when, how and which tasks to launch. 
 * For example, we can decide to launch our test suite, code review tools or even deploy our application, all from GitHub.
+
+### Which CICD tool will we use: Github Actions
+[More Github Actions](https://github.com/features/actions)
