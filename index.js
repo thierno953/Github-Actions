@@ -7,10 +7,10 @@ app.use(morgan('dev'));
 
 app.get('/getenv/*', function (req, res) {
     const parts = req.url.split('/');
-    var msg = "";
+    let msg = "";
 
     if (parts[2]) {
-        var variable = parts[2]
+        let variable = parts[2]
         msg = `\nENVIRONMENT ${variable}\n` + process.env[variable];
     } else {
         msg = '\NnENVIRONMENT VALUES\n' + JSON.stringify(process.env, null, 4);
