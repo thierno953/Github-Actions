@@ -10,7 +10,7 @@
 ### Which CICD tool will we use: Github Actions
 [More Github Actions](https://github.com/features/actions)
 #### Marketplace :
-[Search Github Marketplace](https://github.com/marketplace?type=)
+[Search Github marketplace](https://github.com/marketplace?type=)
 #### Build Docker
 [Github Marketplace docker](https://github.com/marketplace/actions/build-and-push-docker-images)
 #### Deploy Heroku
@@ -19,3 +19,5 @@
 [Github Marketplace trivy](https://github.com/marketplace/actions/aqua-security-trivy)
 #### OWASP ZAP Baseline Scan
 [Github Marketplace scan](https://github.com/marketplace/actions/owasp-zap-baseline-scan)
+#### Beanstalk Deploy
+[Github Marketplace beanstalk](https://github.com/marketplace/actions/beanstalk-deploy)
