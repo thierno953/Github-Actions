@@ -17,3 +17,5 @@
 [Github Marketplace heroku](https://github.com/marketplace/actions/deploy-to-heroku)
 #### Security Trivy
 [Github Marketplace trivy](https://github.com/marketplace/actions/aqua-security-trivy)
+#### OWASP ZAP Baseline Scan
+[Github Marketplace scan](https://github.com/marketplace/actions/owasp-zap-baseline-scan)
