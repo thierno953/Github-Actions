@@ -16,4 +16,4 @@
 #### Deploy Heroku
 [Github Marketplace heroku](https://github.com/marketplace/actions/deploy-to-heroku)
 #### Security Trivy
-[Github Marketplace trivy](https://github.com/marketplace/actions/deploy-to-heroku)
+[Github Marketplace trivy](https://github.com/marketplace/actions/aqua-security-trivy)
