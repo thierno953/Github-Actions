@@ -11,7 +11,7 @@
 [More Github Actions](https://github.com/features/actions)
 #### Marketplace :
 [Search Github Marketplace](https://github.com/marketplace?type=)
-#### Docker
+#### Build Docker
 [Github Marketplace docker](https://github.com/marketplace/actions/build-and-push-docker-images)
-#### Heroku
+#### Deploy Heroku
 [Github Marketplace heroku](https://github.com/marketplace/actions/deploy-to-heroku)
