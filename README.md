@@ -9,5 +9,9 @@
 
 ### Which CICD tool will we use: Github Actions
 [More Github Actions](https://github.com/features/actions)
-#### Github Marketplace :
+#### Marketplace :
 [Search Github Marketplace](https://github.com/marketplace?type=)
+#### Docker
+[Github Marketplace docker](https://github.com/marketplace/actions/build-and-push-docker-images)
+#### Heroku
+[Github Marketplace heroku](https://github.com/marketplace/actions/deploy-to-heroku)
