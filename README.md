@@ -15,3 +15,5 @@
 [Github Marketplace docker](https://github.com/marketplace/actions/build-and-push-docker-images)
 #### Deploy Heroku
 [Github Marketplace heroku](https://github.com/marketplace/actions/deploy-to-heroku)
+#### Security Trivy
+[Github Marketplace trivy](https://github.com/marketplace/actions/deploy-to-heroku)
